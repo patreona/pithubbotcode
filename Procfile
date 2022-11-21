@@ -1,0 +1,1 @@
+worker: python pithub_bot.py
